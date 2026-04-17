@@ -5,3 +5,6 @@ subscribe to me on youtube
 ```Javascript
 console.log('hello world');
 ```
+```Python
+print("Hello, World!")
+```
